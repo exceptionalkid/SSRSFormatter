@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\RDLXmlChanger\obj\Debug\RDLXmlChanger.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\RDLXmlChanger\obj\Debug\RDLXmlChanger.Form1.resources
+C:\Users\Admin\source\repos\RDLXmlChanger\obj\Debug\RDLXmlChanger.Properties.Resources.resources
+C:\Users\Admin\source\repos\RDLXmlChanger\obj\Debug\RDLXmlChanger.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\RDLXmlChanger\obj\Debug\RDLXmlChanger.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\RDLXmlChanger\bin\Debug\RDL Format Changer 2.0.exe.config
+C:\Users\Admin\source\repos\RDLXmlChanger\bin\Debug\RDL Format Changer 2.0.exe
+C:\Users\Admin\source\repos\RDLXmlChanger\bin\Debug\RDL Format Changer 2.0.pdb
+C:\Users\Admin\source\repos\RDLXmlChanger\obj\Debug\RDL Format Changer 2.0.exe
+C:\Users\Admin\source\repos\RDLXmlChanger\obj\Debug\RDL Format Changer 2.0.pdb
